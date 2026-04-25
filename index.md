@@ -12,8 +12,8 @@ If anything here is unclear, email us at **support@sweldowiseph.com** and we'll 
 
 Sweldo Wise is a personal finance app for tracking salary, expenses, savings, and debts. The app is built and operated by:
 
-**Sigfred Vincent Larot**
-Individual developer, Philippines
+**Sigfred Vincent Sumalinog Larot**, doing business as **Bluenex Software Development Service**
+DTI-registered business (National scope, BN No. 7984034), Philippines
 Contact: **support@sweldowiseph.com**
 
 For the purposes of data protection law, this person is the "data controller" — meaning they are responsible for how your information is handled.
