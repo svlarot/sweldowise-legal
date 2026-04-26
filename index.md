@@ -1,6 +1,6 @@
 # Privacy Policy for Sweldo Wise
 
-**Last updated: April 25, 2026**
+**Last updated: April 26, 2026**
 
 This policy explains what information Sweldo Wise collects, how we use it, and the choices you have. We've written it in plain language because we believe you should be able to understand it without a lawyer.
 
@@ -95,7 +95,7 @@ For users in the European Union and United Kingdom: South Korea has been recogni
 
 We keep your information for as long as your account is active.
 
-If you delete your account (see below), we will delete your personal information from our active database within **30 days**. Some information may remain in encrypted backups for up to **90 days** before those backups are rotated and overwritten.
+If you delete your account (see below), your account enters a **30-day grace period** during which you can cancel the deletion by signing back in. After 30 days, your personal information is permanently removed from our active database. Some information may remain in encrypted backups for up to **90 days** before those backups are rotated and overwritten.
 
 We may keep some non-personal information in anonymized form (such as aggregate counts of users) for analytical purposes, but this cannot be linked back to you.
 
@@ -118,10 +118,12 @@ To exercise any of these rights, email **support@sweldowiseph.com**. We will res
 
 You can request account deletion in two ways:
 
-1. **In the app** — go to Settings → Delete Account, and follow the steps. *(Note: this feature is being added; if it isn't available yet in your version of the app, please use option 2.)*
+1. **In the app** — go to **Settings → Delete Account** and follow the steps
 2. **By email** — send a deletion request to **support@sweldowiseph.com** from the email address you used to sign up. We will verify the request and delete your account within 30 days.
 
-Deletion is permanent. We cannot recover your data after it has been deleted.
+For full step-by-step instructions, what gets deleted, and what we keep, see our [dedicated account deletion page](delete-account/).
+
+After the 30-day grace period ends, deletion is permanent and we cannot recover your data.
 
 ---
 
