@@ -1,6 +1,6 @@
 # Privacy Policy for Sweldo Wise
 
-**Last updated: April 26, 2026**
+**Last updated: April 28, 2026**
 
 This policy explains what information Sweldo Wise collects, how we use it, and the choices you have. We've written it in plain language because we believe you should be able to understand it without a lawyer.
 
@@ -39,6 +39,16 @@ When you use the app, you may also enter:
 - **Personal preferences** — settings, categories, goal names, and similar choices you make
 
 You enter all financial information manually. **Sweldo Wise does not connect to your bank accounts, GCash, credit cards, or any payment service.** We never see your bank balance, account numbers, or transactions unless you type them in yourself.
+
+### Camera and photo library (receipt scanning, optional)
+
+To save you typing, Sweldo Wise has an optional **receipt scanning** feature. When — and only when — you tap the scan button to add an expense, the app asks for permission to access your **camera** (to take a photo of the receipt) or your **photo library** (to pick an existing photo). We use this access only for receipt scanning. We do not browse, read, or upload any other images on your device.
+
+The image you capture or select is processed **entirely on your device** using Google ML Kit's on-device text recognition. The image itself is **not uploaded to our servers** and is **not stored permanently** by the app — it is held in temporary memory only long enough to extract the merchant name, amount, and date, then discarded.
+
+Only the **extracted text** — the values you review and confirm before saving — is transmitted to our servers as part of the resulting expense entry. The original photo never leaves your device.
+
+You can deny camera or photo permission when prompted, or revoke it later in your device settings. The app continues to work normally for manual entry without these permissions.
 
 ### Information collected automatically
 
