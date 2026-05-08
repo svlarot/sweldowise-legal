@@ -28,7 +28,7 @@ You'll be signed out immediately. Your account then enters a 30-day waiting peri
 
 ### Option 2: By email
 
-If you can't sign in — for example, you lost access to your device or forgot your password — send a deletion request to **support@sweldowiseph.com** from the email address you used to sign up.
+If you can't sign in — for example, you lost access to your device or forgot your password — send a deletion request to **support@bluenex.org** from the email address you used to sign up.
 
 We will:
 
@@ -88,7 +88,7 @@ Email-requested deletions (Option 2 above) follow the same 30-day timeline. Canc
 
 ## Need help?
 
-If you run into any issue deleting your account, email **support@sweldowiseph.com** and we'll handle it manually. Please include the email address you used to sign up.
+If you run into any issue deleting your account, email **support@bluenex.org** and we'll handle it manually. Please include the email address you used to sign up.
 
 ---
 

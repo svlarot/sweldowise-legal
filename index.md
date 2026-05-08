@@ -4,7 +4,7 @@
 
 This policy explains what information Sweldo Wise collects, how we use it, and the choices you have. We've written it in plain language because we believe you should be able to understand it without a lawyer.
 
-If anything here is unclear, email us at **support@sweldowiseph.com** and we'll explain.
+If anything here is unclear, email us at **support@bluenex.org** and we'll explain.
 
 ---
 
@@ -14,7 +14,7 @@ Sweldo Wise is a personal finance app for tracking salary, expenses, savings, an
 
 **Sigfred Vincent Sumalinog Larot**, doing business as **Bluenex Software Development Service**
 DTI-registered business (National scope, BN No. 7984034), Philippines
-Contact: **support@sweldowiseph.com**
+Contact: **support@bluenex.org**
 
 For the purposes of data protection law, this person is the "data controller" — meaning they are responsible for how your information is handled.
 
@@ -22,7 +22,7 @@ For the purposes of data protection law, this person is the "data controller" �
 
 ## Who can use Sweldo Wise
 
-Sweldo Wise is intended for users **18 years of age or older**. We do not knowingly collect information from anyone under 18. If you believe a person under 18 has used the app, please contact us at **support@sweldowiseph.com** and we will delete their information.
+Sweldo Wise is intended for users **18 years of age or older**. We do not knowingly collect information from anyone under 18. If you believe a person under 18 has used the app, please contact us at **support@bluenex.org** and we will delete their information.
 
 ---
 
@@ -122,14 +122,14 @@ You have the right to:
 - **Withdraw consent** for any data processing at any time
 - **Complain** to a data protection authority (see below)
 
-To exercise any of these rights, email **support@sweldowiseph.com**. We will respond within **30 days**.
+To exercise any of these rights, email **support@bluenex.org**. We will respond within **30 days**.
 
 ### How to delete your account
 
 You can request account deletion in two ways:
 
 1. **In the app** — go to **Settings → Delete Account** and follow the steps
-2. **By email** — send a deletion request to **support@sweldowiseph.com** from the email address you used to sign up. We will verify the request and delete your account within 30 days.
+2. **By email** — send a deletion request to **support@bluenex.org** from the email address you used to sign up. We will verify the request and delete your account within 30 days.
 
 For full step-by-step instructions, what gets deleted, and what we keep, see our [dedicated account deletion page](delete-account/).
 
@@ -158,7 +158,7 @@ Sweldo Wise is a mobile app and does not use cookies in the traditional web-brow
 
 ## Children's privacy
 
-Sweldo Wise is not directed at children under 18, and we do not knowingly collect information from anyone under 18. If you are a parent or guardian and believe your child has provided us with information, please contact **support@sweldowiseph.com** and we will delete the information promptly.
+Sweldo Wise is not directed at children under 18, and we do not knowingly collect information from anyone under 18. If you are a parent or guardian and believe your child has provided us with information, please contact **support@bluenex.org** and we will delete the information promptly.
 
 ---
 
@@ -189,7 +189,7 @@ You may file a complaint with the data protection authority of your country of r
 **In the United Kingdom:**
 Information Commissioner's Office, [ico.org.uk](https://ico.org.uk)
 
-We would also appreciate the chance to address your concern directly first — please email **support@sweldowiseph.com**.
+We would also appreciate the chance to address your concern directly first — please email **support@bluenex.org**.
 
 ---
 
@@ -197,7 +197,7 @@ We would also appreciate the chance to address your concern directly first — p
 
 For any questions about this policy or your information:
 
-**Email:** support@sweldowiseph.com
+**Email:** support@bluenex.org
 **Mailing address:** Available upon request — please email first.
 
 ---
